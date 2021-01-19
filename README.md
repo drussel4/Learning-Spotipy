@@ -60,7 +60,7 @@ Led Zeppelin and Whiskey Myers each have more followers than all of their relate
 
 ![relatedartists_WhiskeyMyers](https://github.com/drussel4/Learning-Spotipy/blob/master/img/Exhibits/relatedartists_WhiskeyMyers.png?raw=true)
 
-And that wraps it up! This is a surface level implementation of Spotify. It can be used to create full scale applications and can even be configured to engage with user level data, though that requires another level of privacy customization (since user data is protected). But this project should give a taste of the uses we can apply Spotipy towards!
+And that wraps it up! This is a surface level implementation of Spotipy. It can be used to create full scale applications and can even be configured to engage with user level data, though that requires another level of privacy customization (since user data is protected). But this project should give a taste of the uses we can apply Spotipy towards!
 
 ## License
 
